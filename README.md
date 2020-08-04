@@ -1,5 +1,3 @@
 # TwitterAnalysis
 
-Referred to: https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk
-
-This project collects sample tweets and classifies any custom tweet into a Positive or a Negative tweet
+Code to collect sample tweets and classify any custom tweet into a Positive or a Negative tweet.
